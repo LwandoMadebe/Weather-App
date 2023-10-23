@@ -25,5 +25,8 @@ User case are used analyse the software's requirements, there are 3 main compone
 
 # formal use case
 A document that describe the use case in detail. 
-1. Open Application
+## 1. Open Application
+   ![Screenshot (38)](https://github.com/LwandoMadebe/Weather-App/assets/147529941/04da01a6-89a5-4e88-9c07-f90b3da80102)
+
+## 2. Enter City name
    

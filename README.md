@@ -32,3 +32,5 @@ A document that describe the use case in detail.
    ![Screenshot (39)](https://github.com/LwandoMadebe/Weather-App/assets/147529941/7247d536-c2a5-479f-9187-2ee52860d18d)
 
 ## 3. Get Weather condition based on searched location
+![Screenshot (40)](https://github.com/LwandoMadebe/Weather-App/assets/147529941/99713eb2-d119-43bd-90dc-657b9bc00494)
+

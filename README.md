@@ -29,4 +29,6 @@ A document that describe the use case in detail.
    ![Screenshot (38)](https://github.com/LwandoMadebe/Weather-App/assets/147529941/04da01a6-89a5-4e88-9c07-f90b3da80102)
 
 ## 2. Enter City name
-   
+   ![Screenshot (39)](https://github.com/LwandoMadebe/Weather-App/assets/147529941/7247d536-c2a5-479f-9187-2ee52860d18d)
+
+## 3. Get Weather condition based on searched location

@@ -40,3 +40,4 @@ A document that describe the use case in detail.
 ![Screenshot (32)](https://github.com/LwandoMadebe/Weather-App/assets/147529941/7fb0e673-ba12-49aa-ba7f-a4ac19a68e84)
 
 ## Here is the short video, take a look!
+https://github.com/LwandoMadebe/Weather-App/assets/147529941/53ae1522-b6d4-437b-9c36-9d3c89524e00

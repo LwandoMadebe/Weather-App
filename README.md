@@ -28,6 +28,13 @@ A document that describe the use case in detail.
 ## 1. Open Application
    ![Screenshot (38)](https://github.com/LwandoMadebe/Weather-App/assets/147529941/04da01a6-89a5-4e88-9c07-f90b3da80102)
 
+# Screenshots 
+![Screenshot (28)](https://github.com/LwandoMadebe/Weather-App/assets/147529941/328a6b66-8ff6-4f71-9ab4-f295ed80a892)
+![Screenshot (29)](https://github.com/LwandoMadebe/Weather-App/assets/147529941/9e43e0d3-ba60-4d4d-b878-36db4c2906a8)
+![Screenshot (30)](https://github.com/LwandoMadebe/Weather-App/assets/147529941/de351be7-9e06-43cb-97fd-82f9c1a1a836)
+![Screenshot (31)](https://github.com/LwandoMadebe/Weather-App/assets/147529941/d5db37bd-52bf-4fe7-a528-88a5e287f57c)
+![Screenshot (32)](https://github.com/LwandoMadebe/Weather-App/assets/147529941/7fb0e673-ba12-49aa-ba7f-a4ac19a68e84)
+
 ## 2. Enter City name
    ![Screenshot (39)](https://github.com/LwandoMadebe/Weather-App/assets/147529941/7247d536-c2a5-479f-9187-2ee52860d18d)
 

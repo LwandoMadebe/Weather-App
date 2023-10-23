@@ -38,3 +38,5 @@ A document that describe the use case in detail.
 ![Screenshot (30)](https://github.com/LwandoMadebe/Weather-App/assets/147529941/de351be7-9e06-43cb-97fd-82f9c1a1a836)
 ![Screenshot (31)](https://github.com/LwandoMadebe/Weather-App/assets/147529941/d5db37bd-52bf-4fe7-a528-88a5e287f57c)
 ![Screenshot (32)](https://github.com/LwandoMadebe/Weather-App/assets/147529941/7fb0e673-ba12-49aa-ba7f-a4ac19a68e84)
+
+## Here is the short video, take a look!
